@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background: #f1f1f1;
+}
+
+.container {
+  width: 500px;
+  min-height: 160px;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #0a3d62;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+#quote {
+  font-size: 20px;
+}
+
+#author {
+  font-size: 18px;
+  align-self: flex-end;
+}
+
+button {
+ cursor: pointer;
+  padding: 5px 20px;
+  margin-bottom: 20px;
+
+}
