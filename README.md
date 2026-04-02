@@ -1,6 +1,6 @@
 🚀 JavaScript Mini Projects Collection
 
-📌 Description
+📌 Description-
 This repository contains a collection of beginner-friendly JavaScript mini projects built using HTML, CSS, and JavaScript. These projects help in understanding core frontend concepts.
 ---
 🎯 Projects Included
